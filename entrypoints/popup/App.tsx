@@ -1,9 +1,7 @@
-import './App.css';
-
 function App() {
   return (
     <>
-      <p>BetterTwitter</p>
+      <p className={'bg-neutral-800 text-white'}>BetterTwitter</p>
     </>
   );
 }
